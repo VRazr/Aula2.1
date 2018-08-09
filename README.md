@@ -2,5 +2,6 @@
 
 Atores preferidos
 - Eu
-- Não
+- Nunca
 - Tenho
+- Opinião
